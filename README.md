@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hii😎 I am *Ayash*
+I am currently in first year of MCA integrated course at DAVV indore
+---
 
-<!--
-**ayash025/ayash025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About ME🏋️‍♀️🏋️‍♀️
+- **languages** 
+- - C
+  - Python
+  - SQL
+- **tools**
+- - vscode
+  - Git
+  - Github
+  - GCC
+---
 
-Here are some ideas to get you started:
+### First sem subject
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Sno.|Subject|
+|:---|---:|
+|01|Maths|
+|02|C programming|
+|03|PC Software|
+|04|DIgital Electronics|
+|05|Communication|
+---
+### connect with me 🛰
+**email:** aayashkushwaha7@gmail.com
+
